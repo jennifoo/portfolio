@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7262c6b1cbc16608fc9c6c3390eaf1d",
+    "revision": "5432d27c400b09c8bb2cca7077db6733",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "814c511aaa15d51e8b68",
+    "revision": "6b0b5899abfd3045d8a0",
     "url": "/portfolio/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "e7e886f9b9b8e4ad6634",
+    "revision": "ed2f87c1c6c98fc00966",
     "url": "/portfolio/static/css/main.37ef3e3b.chunk.css"
   },
   {
-    "revision": "814c511aaa15d51e8b68",
-    "url": "/portfolio/static/js/2.28530548.chunk.js"
+    "revision": "6b0b5899abfd3045d8a0",
+    "url": "/portfolio/static/js/2.ea634980.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.28530548.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/portfolio/static/js/2.ea634980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7e886f9b9b8e4ad6634",
-    "url": "/portfolio/static/js/main.bb364a4d.chunk.js"
+    "revision": "ed2f87c1c6c98fc00966",
+    "url": "/portfolio/static/js/main.154f0849.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/brain-juice-preview.431ae37a.jpg"
   },
   {
+    "revision": "40f097703d020717c0f6000650da64a3",
+    "url": "/portfolio/static/media/brain-juice.40f09770.jpg"
+  },
+  {
     "revision": "43bead88a6b4ab998554ca2c26514660",
     "url": "/portfolio/static/media/employee-tracker-preview.43bead88.png"
   },
@@ -56,7 +60,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/jennifer2.23eb5263.jpg"
   },
   {
+    "revision": "454840a650f700306f8eca9596a394d3",
+    "url": "/portfolio/static/media/mer-banner.454840a6.jpg"
+  },
+  {
+    "revision": "cacfc94bce83df45fb98bf72b18e5406",
+    "url": "/portfolio/static/media/project-api-application-body1.cacfc94b.png"
+  },
+  {
+    "revision": "e315e321285e5414efab670c486d4292",
+    "url": "/portfolio/static/media/project-api-application.e315e321.png"
+  },
+  {
     "revision": "17490b1a565fd3bc1dcb8aa192b63009",
     "url": "/portfolio/static/media/third-party-api-work-day-scheduler-preview.17490b1a.png"
+  },
+  {
+    "revision": "2d97567c9ad3b98a90176896e6949a62",
+    "url": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg"
   }
 ]);
