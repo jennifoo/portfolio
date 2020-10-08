@@ -1,7 +1,9 @@
 import React from "react";
+import Footer from "../Footer";
 
 function Contact() {
 return (
+        <>
         <main>
         <section className="container interior">
         <h1>Contact Me</h1>
@@ -30,6 +32,8 @@ return (
         </form>
         </section>
         </main>
+        <Footer />
+        </>
 )
 }
 
