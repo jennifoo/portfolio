@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c49e8fa1aeeab711b007af9b57b6946b",
+    "revision": "fc2df9601318b7e4f63cf8c6dc709d57",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "6b0b5899abfd3045d8a0",
+    "revision": "794fb82099dd41c3cb83",
     "url": "/portfolio/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "3d12ce62f32655cd9d3e",
+    "revision": "2fd7d7093ae88ba21f33",
     "url": "/portfolio/static/css/main.37ef3e3b.chunk.css"
   },
   {
-    "revision": "6b0b5899abfd3045d8a0",
-    "url": "/portfolio/static/js/2.ea634980.chunk.js"
+    "revision": "794fb82099dd41c3cb83",
+    "url": "/portfolio/static/js/2.3395e076.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.ea634980.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.3395e076.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d12ce62f32655cd9d3e",
-    "url": "/portfolio/static/js/main.ca7b15ac.chunk.js"
+    "revision": "2fd7d7093ae88ba21f33",
+    "url": "/portfolio/static/js/main.d5a0f525.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd08fe77f2cf70e3356656df96a75ea0",
     "url": "/portfolio/static/media/express-note-taker-preview.cd08fe77.png"
+  },
+  {
+    "revision": "04965c2bb1879e71e5437a48c47956a6",
+    "url": "/portfolio/static/media/jennifer-web-developer-resume-9-20-2020.04965c2b.pdf"
   },
   {
     "revision": "104d525d1cc150f9e51cbe7ee0f994e1",
