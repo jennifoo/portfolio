@@ -138,6 +138,98 @@ return (
     </div>
 </section>
 
+{/* <!-- SECTION 1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ --> */}
+
+{/* <!-- SECTION 1@@@ --> */}
+<a id="employee-tracker"></a>
+<section>
+    <div className="row">
+        <div className="col-xs-12 col-sm-12">
+          <hr />
+          <h2 style={{marginTop: "75px", marginBottom: "25px"}}>Employee Tracker</h2>
+          <img src={require("../../images/portfolio/employee-tracker.png")} alt="api application" />
+        </div>
+    </div>
+
+    <div className="row">
+        <div className="col-6">
+              <h3>Description:</h3>
+              <p style={{marginTop: "0"}}>Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. In the project, the application solution is architected and built for managing a company's employees using node, inquirer, and MySQL.
+              </p>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://vimeo.com/456706895">View Application</a>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://github.com/jennifoo/12-mysql-employee-tracker">Github »</a>
+        </div>
+        <div className="col-6">
+              <h4>The user should be able to do the following:</h4>
+              <ul>
+                <li>Add departments, roles, employees</li>
+                <li>View departments, roles, employees</li>
+                <li>Update employee roles</li>
+              </ul>
+        </div>
+    </div>
+</section>
+
+
+{/* <!-- SECTION 2@@@ --> */}
+<a id="express-note-taker"></a>
+<section>
+    <div className="row">
+        <div className="col-xs-12 col-sm-12">
+          <hr />
+          <h2>Express Note Taker</h2>
+          <img src={require("../../images/portfolio/express-note-taker.png")} alt="api application" />
+        </div>
+    </div>
+
+    <div className="row">
+        <div className="col-6">
+              <h3>Description:</h3>
+              <p style={{marginTop: "0"}}>This application can be used to write, save, and delete notes so that the user can organize their thoughts and keep track of tasks that need to be completed. This is targetted to users who need to store information that remains persistent the next time they open the application.
+              </p>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://jennifoo-express-note-taker.herokuapp.com/">View Application</a>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://github.com/jennifoo/11-express-note-taker">Github »</a>
+        </div>
+        <div className="col-6">
+              <h4>Technical Information</h4>
+              <ul>
+                <li>This application uses an express backend to save and retrieve note data from a JSON file.</li>
+                <li>Utilizes API routes: GET, POST and DELETE.</li>
+                <li>Utlizes the 'fs' node module.</li>
+              </ul>
+        </div>
+    </div>
+</section>
+
+
+{/* <!-- SECTION 3@@@ --> */}
+<a id="weather-dashboard"></a>
+<section>
+    <div className="row">
+        <div className="col-xs-12 col-sm-12">
+          <hr />
+          <h2>Weather Dashboard</h2>
+          <img src={require("../../images/portfolio/weather-dashboard-1.png")} alt="api application" />
+        </div>
+    </div>
+
+    <div className="row">
+        <div className="col-6">
+              <h3>Description:</h3>
+              <p style={{marginTop: "0"}}>This weather dashboard retrieves data from another application's API and uses it to display weather data by accessing their data and functionality by making requests with specific parameters to a URL. The final application runs in the browser and feature dynamically updated HTML and CSS. The third party API named, OpenWeather API was used to retrieve weather data for cities.
+              </p>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://jennifoo.github.io/06-server-side-apis-weather-dashboard/">View Application</a>
+              <a className="btn btn-primary btn-sm" target="_blank" href="https://github.com/jennifoo/06-server-side-apis-weather-dashboard">Github »</a>
+        </div>
+        <div className="col-6">
+              <h4>User Story:</h4>
+              <ul>
+                As a traveler I want to see the weather outlook for multiple cities so that I can plan a trip accordingly.
+              </ul>
+        </div>
+    </div>
+</section>
+
 </div>
 {/* <!-- End PROJECT CONTAINER --> */}
 
