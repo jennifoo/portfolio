@@ -3,7 +3,8 @@ import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route
+  Route,
+  NoMatch
 } from "react-router-dom";
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
@@ -31,8 +32,8 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-        <Route path="/">
-          <NoMatch />
+        <Route exact path="/portfolio">
+          <Home />
         </Route>
     </Switch>
     <Footer />

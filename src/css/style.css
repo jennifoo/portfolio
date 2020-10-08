@@ -249,8 +249,13 @@ footer .row {
   display: flex;
   /* align-items: center; */
 }
-
+/* 
 footer i {
+  color: #f6e667;
+  margin-right: 8px;
+} */
+
+footer svg {
   color: #f6e667;
   margin-right: 8px;
 }

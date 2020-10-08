@@ -8,7 +8,7 @@ import pdf from '../../images/jennifer-web-developer-resume-9-20-2020.pdf'
 function Nav() {
   return(
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link to="/portfolio/" className="navbar-brand"><img src={require("../../images/jennifer-wong-logo.svg")} alt="logotype - jennifer wong" height="57px" /></Link>
+      <Link to="/portfolio" className="navbar-brand"><img src={require("../../images/jennifer-wong-logo.svg")} alt="logotype - jennifer wong" height="57px" /></Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
