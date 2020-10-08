@@ -22,14 +22,17 @@ function App() {
     <Router>
     <Nav />
     <Switch>
-        <Route path="/projects">
+        <Route exact path="/portfolio/projects">
           <Portfolio />
         </Route>
-        <Route path="/contact">
+        <Route exact path="/portfolio/contact">
           <Contact />
         </Route>
-        <Route path="/">
+        <Route exact path="/">
           <Home />
+        </Route>
+        <Route path="/">
+          <NoMatch />
         </Route>
     </Switch>
     <Footer />

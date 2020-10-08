@@ -8,17 +8,17 @@ import pdf from '../../images/jennifer-web-developer-resume-9-20-2020.pdf'
 function Nav() {
   return(
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <a className="navbar-brand" href="index.html"><img src={require("../../images/jennifer-wong-logo.svg")} alt="logotype - jennifer wong" height="57px" /></a>
+      <Link to="/portfolio/" className="navbar-brand"><img src={require("../../images/jennifer-wong-logo.svg")} alt="logotype - jennifer wong" height="57px" /></Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item"> {/* dropdown */}
-            <Link to="/projects" className="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</Link>
+            <Link to="/portfolio/projects" className="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</Link> {/*class: dropdown-toggle*/}
           </li>
           <li className="nav-item">
-            <Link to="/contact" className="nav-link">Contact</Link>
+            <Link to="/portfolio/contact" className="nav-link">Contact</Link>
           </li>
           <li className="nav-item">
             <a href= {pdf} className="nav-link" target="_blank">View Resume</a>
