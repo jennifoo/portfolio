@@ -6,16 +6,13 @@ import {
   Route,
   NoMatch
 } from "react-router-dom";
-import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
-import Home from './components/Home';
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
+import Home from './pages/Home';
 
 import './App.css';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import Home1 from './components/Home1';
-import Home2 from './components/Home2';
-import Home3 from './components/Home3';
 
 function App() {
   return (
