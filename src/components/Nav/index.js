@@ -3,6 +3,7 @@ import {
   BrowserRouter as Router,
   Link
 } from "react-router-dom";
+import pdf from '../../images/jennifer-web-developer-resume-9-20-2020.pdf'
 
 function Nav() {
   return(
@@ -13,23 +14,14 @@ function Nav() {
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
-          <li className="nav-item dropdown">
-            <Link to="/portfolio" className="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</Link>
-            <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <Link to="./portfolio-master.html#tech-comp" className="dropdown-item">Website Redesign: Tech Company</Link>
-            <Link to="./portfolio-master.html#torque-comp" className="dropdown-item">Website Redesign: Torque Solutions Company</Link>
-            <Link to="./portfolio-master.html#brain-juice" className="dropdown-item">Brain Juice</Link>
-            <Link to="./portfolio-master.html#skj-recipe-library" className="dropdown-item">SKJ Recipe Library</Link>
-            <Link to="./portfolio-master.html#employee-tracker" className="dropdown-item">Employee Tracker</Link>
-            <Link to="./portfolio-master.html#express-note-taker" className="dropdown-item">Express Note Taker</Link>
-            <Link to="./portfolio-master.html#weather-dashboard" className="dropdown-item">Weather Dashboard</Link>
-          </div>
+          <li className="nav-item"> {/* dropdown */}
+            <Link to="/projects" className="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</Link>
           </li>
           <li className="nav-item">
-            <Link to="contact.html" className="nav-link">Contact</Link>
+            <Link to="/contact" className="nav-link">Contact</Link>
           </li>
           <li className="nav-item">
-            <Link to="images/jennifer-web-developer-resume-9-20-2020.pdf" className="nav-link" target="_blank">View Resume</Link>
+            <a href= {pdf} className="nav-link" target="_blank">View Resume</a>
           </li>
         </ul>
       </div>
@@ -39,6 +31,14 @@ function Nav() {
 
 export default Nav;
 
+{/* <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+<Link to="./projects.html#tech-comp" className="dropdown-item">Website Redesign: Tech Company</Link>
+<Link to="./projects.html#torque-comp" className="dropdown-item">Website Redesign: Torque Solutions Company</Link>
+<Link to="./projects.html#brain-juice" className="dropdown-item">Brain Juice</Link>
+<Link to="./projects.html#skj-recipe-library" className="dropdown-item">SKJ Recipe Library</Link>
+<Link to="./projects.html#employee-tracker" className="dropdown-item">Employee Tracker</Link>
+<Link to="./projects.html#express-note-taker" className="dropdown-item">Express Note Taker</Link>
+<Link to="./projects.html#weather-dashboard" className="dropdown-item">Weather Dashboard</Link> */}
 
 
 {/* <nav className="navbar navbar-expand-lg navbar-light bg-light">
