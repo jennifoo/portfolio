@@ -1,5 +1,14 @@
 import React from 'react';
 // import logo from './logo.svg';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Home from './components/Home';
+
 import './App.css';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
@@ -10,10 +19,23 @@ import Home3 from './components/Home3';
 function App() {
   return (
     <>
+    <Router>
     <Nav />
-      <Home1 />
-      <Home2 />
-      <Home3 />
+    <Switch>
+        <Route path="/portfolio">
+          <Portfolio />
+        </Route>
+        <Route path="/contact">
+          <Contact />
+        </Route>
+        <Route path="/">
+          <Home />
+        </Route>
+    </Switch>
+    <Footer />
+    </Router>
+    
+    
     </>
   );
 }
