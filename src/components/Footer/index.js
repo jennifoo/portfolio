@@ -1,9 +1,8 @@
 import React from "react";
+import { BrowserRouter as Router, Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faMobileAlt } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
-
-
 
 function Footer() {
   return(
@@ -11,7 +10,7 @@ function Footer() {
         <div className="row">
           <div className="col-md-6">
             <p>Let's Work Together</p>
-            <a className="btn btn-primary btn-sm" href="contact.html" role="button">Contact Me</a>
+            <Link to="/portfolio/contact" className="btn btn-primary btn-sm" role="button">Contact Me</Link>
           </div>
           <div className="col-md-6" id="footer-col-2">
             <ul>

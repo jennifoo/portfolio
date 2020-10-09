@@ -1,8 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Link
-} from "react-router-dom";
+import { BrowserRouter as Router, Link } from "react-router-dom";
 import pdf from '../../images/jennifer-web-developer-resume-9-20-2020.pdf'
 
 function Nav() {
