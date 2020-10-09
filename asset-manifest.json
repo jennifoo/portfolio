@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6f41c941.chunk.css",
-    "main.js": "/portfolio/static/js/main.0e810ddc.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0e810ddc.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.021fde3f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.021fde3f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.6a3f9dd8.chunk.js": "/portfolio/static/js/2.6a3f9dd8.chunk.js",
-    "static/js/2.6a3f9dd8.chunk.js.map": "/portfolio/static/js/2.6a3f9dd8.chunk.js.map",
+    "static/js/2.d4a0cf05.chunk.js": "/portfolio/static/js/2.d4a0cf05.chunk.js",
+    "static/js/2.d4a0cf05.chunk.js.map": "/portfolio/static/js/2.d4a0cf05.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.c9f9bf11b8350ed2fd92af86d41f4f6c.js": "/portfolio/precache-manifest.c9f9bf11b8350ed2fd92af86d41f4f6c.js",
+    "precache-manifest.b7e2513aecd3c0b46c9c0f6d3c804dc0.js": "/portfolio/precache-manifest.b7e2513aecd3c0b46c9c0f6d3c804dc0.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/portfolio/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.6f41c941.chunk.css.map": "/portfolio/static/css/main.6f41c941.chunk.css.map",
-    "static/js/2.6a3f9dd8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6a3f9dd8.chunk.js.LICENSE.txt",
+    "static/js/2.d4a0cf05.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d4a0cf05.chunk.js.LICENSE.txt",
     "static/media/SKJ-receipe-lookup-preview.jpg": "/portfolio/static/media/SKJ-receipe-lookup-preview.bca30cdb.jpg",
     "static/media/brain-juice-400w.jpg": "/portfolio/static/media/brain-juice-400w.03ca20c7.jpg",
     "static/media/brain-juice-preview.jpg": "/portfolio/static/media/brain-juice-preview.431ae37a.jpg",
@@ -26,17 +26,19 @@
     "static/media/jennifer-wong-logo.svg": "/portfolio/static/media/jennifer-wong-logo.104d525d.svg",
     "static/media/jennifer2.jpg": "/portfolio/static/media/jennifer2.23eb5263.jpg",
     "static/media/mer-banner.jpg": "/portfolio/static/media/mer-banner.454840a6.jpg",
-    "static/media/project-api-application-body1.png": "/portfolio/static/media/project-api-application-body1.cacfc94b.png",
+    "static/media/mer-wireframes.png": "/portfolio/static/media/mer-wireframes.1ef5ae32.png",
     "static/media/project-api-application.png": "/portfolio/static/media/project-api-application.e315e321.png",
     "static/media/third-party-api-work-day-scheduler-preview.png": "/portfolio/static/media/third-party-api-work-day-scheduler-preview.17490b1a.png",
+    "static/media/third-party-api-work-day-scheduler.png": "/portfolio/static/media/third-party-api-work-day-scheduler.83fca884.png",
     "static/media/torque-solutions-website-redesign.jpg": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg",
-    "static/media/weather-dashboard-1.png": "/portfolio/static/media/weather-dashboard-1.81ca9e4d.png"
+    "static/media/weather-dashboard-1.png": "/portfolio/static/media/weather-dashboard-1.81ca9e4d.png",
+    "static/media/weather-dashboard-preview.jpg": "/portfolio/static/media/weather-dashboard-preview.ae517ec1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.6a3f9dd8.chunk.js",
+    "static/js/2.d4a0cf05.chunk.js",
     "static/css/main.6f41c941.chunk.css",
-    "static/js/main.0e810ddc.chunk.js"
+    "static/js/main.021fde3f.chunk.js"
   ]
 }

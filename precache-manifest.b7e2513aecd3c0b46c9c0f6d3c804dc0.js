@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cc6d7a0a8153a7d1591850552a529cd",
+    "revision": "d922cb4fd79d8a33561a76d8c3b1c131",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "fdb56d94b36ad5f6aa15",
+    "revision": "bac23db3a3164f2c5413",
     "url": "/portfolio/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "adbbb56087623bb8c646",
+    "revision": "55748fbc0f47f6e0ce4c",
     "url": "/portfolio/static/css/main.6f41c941.chunk.css"
   },
   {
-    "revision": "fdb56d94b36ad5f6aa15",
-    "url": "/portfolio/static/js/2.6a3f9dd8.chunk.js"
+    "revision": "bac23db3a3164f2c5413",
+    "url": "/portfolio/static/js/2.d4a0cf05.chunk.js"
   },
   {
     "revision": "a3c66bc87fa121efed0250fdac2dfa2b",
-    "url": "/portfolio/static/js/2.6a3f9dd8.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.d4a0cf05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adbbb56087623bb8c646",
-    "url": "/portfolio/static/js/main.0e810ddc.chunk.js"
+    "revision": "55748fbc0f47f6e0ce4c",
+    "url": "/portfolio/static/js/main.021fde3f.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/mer-banner.454840a6.jpg"
   },
   {
-    "revision": "cacfc94bce83df45fb98bf72b18e5406",
-    "url": "/portfolio/static/media/project-api-application-body1.cacfc94b.png"
+    "revision": "1ef5ae32fa3203d8f6c723360fcc0746",
+    "url": "/portfolio/static/media/mer-wireframes.1ef5ae32.png"
   },
   {
     "revision": "e315e321285e5414efab670c486d4292",
@@ -88,11 +88,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/third-party-api-work-day-scheduler-preview.17490b1a.png"
   },
   {
+    "revision": "83fca884787871df38da8a8aed80b12f",
+    "url": "/portfolio/static/media/third-party-api-work-day-scheduler.83fca884.png"
+  },
+  {
     "revision": "2d97567c9ad3b98a90176896e6949a62",
     "url": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg"
   },
   {
     "revision": "81ca9e4d1a64364c5e52faf4baf96e4b",
     "url": "/portfolio/static/media/weather-dashboard-1.81ca9e4d.png"
+  },
+  {
+    "revision": "ae517ec124b528c92369742696b5d5dd",
+    "url": "/portfolio/static/media/weather-dashboard-preview.ae517ec1.jpg"
   }
 ]);
