@@ -6,7 +6,7 @@ import Home3 from '../../components/Home3';
 
 
 
-function App() {
+function Home() {
   return (
     <>
       <Home1 />
@@ -16,5 +16,5 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
 

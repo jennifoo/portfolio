@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6f41c941.chunk.css",
-    "main.js": "/portfolio/static/js/main.4bc36df5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4bc36df5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0e810ddc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0e810ddc.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.0f6f8694.chunk.js": "/portfolio/static/js/2.0f6f8694.chunk.js",
-    "static/js/2.0f6f8694.chunk.js.map": "/portfolio/static/js/2.0f6f8694.chunk.js.map",
+    "static/js/2.6a3f9dd8.chunk.js": "/portfolio/static/js/2.6a3f9dd8.chunk.js",
+    "static/js/2.6a3f9dd8.chunk.js.map": "/portfolio/static/js/2.6a3f9dd8.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d5afc0ca6268e59337e37075d7059ea5.js": "/portfolio/precache-manifest.d5afc0ca6268e59337e37075d7059ea5.js",
+    "precache-manifest.c9f9bf11b8350ed2fd92af86d41f4f6c.js": "/portfolio/precache-manifest.c9f9bf11b8350ed2fd92af86d41f4f6c.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/portfolio/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.6f41c941.chunk.css.map": "/portfolio/static/css/main.6f41c941.chunk.css.map",
-    "static/js/2.0f6f8694.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0f6f8694.chunk.js.LICENSE.txt",
+    "static/js/2.6a3f9dd8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6a3f9dd8.chunk.js.LICENSE.txt",
     "static/media/SKJ-receipe-lookup-preview.jpg": "/portfolio/static/media/SKJ-receipe-lookup-preview.bca30cdb.jpg",
     "static/media/brain-juice-400w.jpg": "/portfolio/static/media/brain-juice-400w.03ca20c7.jpg",
     "static/media/brain-juice-preview.jpg": "/portfolio/static/media/brain-juice-preview.431ae37a.jpg",
     "static/media/brain-juice.jpg": "/portfolio/static/media/brain-juice.40f09770.jpg",
     "static/media/employee-tracker-preview.png": "/portfolio/static/media/employee-tracker-preview.43bead88.png",
+    "static/media/employee-tracker.png": "/portfolio/static/media/employee-tracker.ff7cdcb1.png",
     "static/media/express-note-taker-preview.png": "/portfolio/static/media/express-note-taker-preview.cd08fe77.png",
+    "static/media/express-note-taker.png": "/portfolio/static/media/express-note-taker.64c8d9ef.png",
     "static/media/jennifer-web-developer-resume-9-20-2020.pdf": "/portfolio/static/media/jennifer-web-developer-resume-9-20-2020.04965c2b.pdf",
     "static/media/jennifer-wong-logo.svg": "/portfolio/static/media/jennifer-wong-logo.104d525d.svg",
     "static/media/jennifer2.jpg": "/portfolio/static/media/jennifer2.23eb5263.jpg",
@@ -27,13 +29,14 @@
     "static/media/project-api-application-body1.png": "/portfolio/static/media/project-api-application-body1.cacfc94b.png",
     "static/media/project-api-application.png": "/portfolio/static/media/project-api-application.e315e321.png",
     "static/media/third-party-api-work-day-scheduler-preview.png": "/portfolio/static/media/third-party-api-work-day-scheduler-preview.17490b1a.png",
-    "static/media/torque-solutions-website-redesign.jpg": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg"
+    "static/media/torque-solutions-website-redesign.jpg": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg",
+    "static/media/weather-dashboard-1.png": "/portfolio/static/media/weather-dashboard-1.81ca9e4d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.0f6f8694.chunk.js",
+    "static/js/2.6a3f9dd8.chunk.js",
     "static/css/main.6f41c941.chunk.css",
-    "static/js/main.4bc36df5.chunk.js"
+    "static/js/main.0e810ddc.chunk.js"
   ]
 }

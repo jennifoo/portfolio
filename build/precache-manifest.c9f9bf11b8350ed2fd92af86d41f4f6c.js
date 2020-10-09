@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce9b030cccc20372fefd3873fd343dd2",
+    "revision": "0cc6d7a0a8153a7d1591850552a529cd",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "3637555ec19e4b10996d",
+    "revision": "fdb56d94b36ad5f6aa15",
     "url": "/portfolio/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "8194aa2bf202259ef4ca",
+    "revision": "adbbb56087623bb8c646",
     "url": "/portfolio/static/css/main.6f41c941.chunk.css"
   },
   {
-    "revision": "3637555ec19e4b10996d",
-    "url": "/portfolio/static/js/2.0f6f8694.chunk.js"
+    "revision": "fdb56d94b36ad5f6aa15",
+    "url": "/portfolio/static/js/2.6a3f9dd8.chunk.js"
   },
   {
     "revision": "a3c66bc87fa121efed0250fdac2dfa2b",
-    "url": "/portfolio/static/js/2.0f6f8694.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.6a3f9dd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8194aa2bf202259ef4ca",
-    "url": "/portfolio/static/js/main.4bc36df5.chunk.js"
+    "revision": "adbbb56087623bb8c646",
+    "url": "/portfolio/static/js/main.0e810ddc.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -48,8 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/employee-tracker-preview.43bead88.png"
   },
   {
+    "revision": "ff7cdcb11f2a1142d31104619d71bf8d",
+    "url": "/portfolio/static/media/employee-tracker.ff7cdcb1.png"
+  },
+  {
     "revision": "cd08fe77f2cf70e3356656df96a75ea0",
     "url": "/portfolio/static/media/express-note-taker-preview.cd08fe77.png"
+  },
+  {
+    "revision": "64c8d9ef7b2279caebcabb17886a4efd",
+    "url": "/portfolio/static/media/express-note-taker.64c8d9ef.png"
   },
   {
     "revision": "04965c2bb1879e71e5437a48c47956a6",
@@ -82,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d97567c9ad3b98a90176896e6949a62",
     "url": "/portfolio/static/media/torque-solutions-website-redesign.2d97567c.jpg"
+  },
+  {
+    "revision": "81ca9e4d1a64364c5e52faf4baf96e4b",
+    "url": "/portfolio/static/media/weather-dashboard-1.81ca9e4d.png"
   }
 ]);

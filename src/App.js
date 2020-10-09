@@ -3,8 +3,7 @@ import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  NoMatch
+  Route
 } from "react-router-dom";
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
