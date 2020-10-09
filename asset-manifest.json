@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6f41c941.chunk.css",
-    "main.js": "/portfolio/static/js/main.021fde3f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.021fde3f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.58f8cc47.chunk.css",
+    "main.js": "/portfolio/static/js/main.f17fd115.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f17fd115.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.d4a0cf05.chunk.js": "/portfolio/static/js/2.d4a0cf05.chunk.js",
-    "static/js/2.d4a0cf05.chunk.js.map": "/portfolio/static/js/2.d4a0cf05.chunk.js.map",
+    "static/js/2.fc037bdb.chunk.js": "/portfolio/static/js/2.fc037bdb.chunk.js",
+    "static/js/2.fc037bdb.chunk.js.map": "/portfolio/static/js/2.fc037bdb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b7e2513aecd3c0b46c9c0f6d3c804dc0.js": "/portfolio/precache-manifest.b7e2513aecd3c0b46c9c0f6d3c804dc0.js",
+    "precache-manifest.0fb842c9b89b017f9405794c9922fba4.js": "/portfolio/precache-manifest.0fb842c9b89b017f9405794c9922fba4.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/portfolio/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.6f41c941.chunk.css.map": "/portfolio/static/css/main.6f41c941.chunk.css.map",
-    "static/js/2.d4a0cf05.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d4a0cf05.chunk.js.LICENSE.txt",
+    "static/css/main.58f8cc47.chunk.css.map": "/portfolio/static/css/main.58f8cc47.chunk.css.map",
+    "static/js/2.fc037bdb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fc037bdb.chunk.js.LICENSE.txt",
     "static/media/SKJ-receipe-lookup-preview.jpg": "/portfolio/static/media/SKJ-receipe-lookup-preview.bca30cdb.jpg",
     "static/media/brain-juice-400w.jpg": "/portfolio/static/media/brain-juice-400w.03ca20c7.jpg",
     "static/media/brain-juice-preview.jpg": "/portfolio/static/media/brain-juice-preview.431ae37a.jpg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.d4a0cf05.chunk.js",
-    "static/css/main.6f41c941.chunk.css",
-    "static/js/main.021fde3f.chunk.js"
+    "static/js/2.fc037bdb.chunk.js",
+    "static/css/main.58f8cc47.chunk.css",
+    "static/js/main.f17fd115.chunk.js"
   ]
 }
