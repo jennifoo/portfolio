@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf90dfac7ec43061b93248bfa78314f3",
+    "revision": "905cc336289fe93a9a88227edc4a63ec",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "bc5c617968e83325876a",
+    "revision": "0697f611f2f719db7a74",
     "url": "/portfolio/static/css/main.58f8cc47.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.fc037bdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc5c617968e83325876a",
-    "url": "/portfolio/static/js/main.f17fd115.chunk.js"
+    "revision": "0697f611f2f719db7a74",
+    "url": "/portfolio/static/js/main.60faabb0.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64c8d9ef7b2279caebcabb17886a4efd",
     "url": "/portfolio/static/media/express-note-taker.64c8d9ef.png"
+  },
+  {
+    "revision": "26dacd725e7de8b5d80334d13328e6d0",
+    "url": "/portfolio/static/media/google-books-search-app.26dacd72.png"
   },
   {
     "revision": "04965c2bb1879e71e5437a48c47956a6",

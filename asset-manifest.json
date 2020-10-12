@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.58f8cc47.chunk.css",
-    "main.js": "/portfolio/static/js/main.f17fd115.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f17fd115.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.60faabb0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.60faabb0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/portfolio/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.fc037bdb.chunk.js": "/portfolio/static/js/2.fc037bdb.chunk.js",
     "static/js/2.fc037bdb.chunk.js.map": "/portfolio/static/js/2.fc037bdb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0fb842c9b89b017f9405794c9922fba4.js": "/portfolio/precache-manifest.0fb842c9b89b017f9405794c9922fba4.js",
+    "precache-manifest.414181945f8c1c8bd88ba20f6dcc49b2.js": "/portfolio/precache-manifest.414181945f8c1c8bd88ba20f6dcc49b2.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/portfolio/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.58f8cc47.chunk.css.map": "/portfolio/static/css/main.58f8cc47.chunk.css.map",
@@ -22,6 +22,7 @@
     "static/media/employee-tracker.png": "/portfolio/static/media/employee-tracker.ff7cdcb1.png",
     "static/media/express-note-taker-preview.png": "/portfolio/static/media/express-note-taker-preview.cd08fe77.png",
     "static/media/express-note-taker.png": "/portfolio/static/media/express-note-taker.64c8d9ef.png",
+    "static/media/google-books-search-app.png": "/portfolio/static/media/google-books-search-app.26dacd72.png",
     "static/media/jennifer-web-developer-resume-9-20-2020.pdf": "/portfolio/static/media/jennifer-web-developer-resume-9-20-2020.04965c2b.pdf",
     "static/media/jennifer-wong-logo.svg": "/portfolio/static/media/jennifer-wong-logo.104d525d.svg",
     "static/media/jennifer2.jpg": "/portfolio/static/media/jennifer2.23eb5263.jpg",
@@ -39,6 +40,6 @@
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.fc037bdb.chunk.js",
     "static/css/main.58f8cc47.chunk.css",
-    "static/js/main.f17fd115.chunk.js"
+    "static/js/main.60faabb0.chunk.js"
   ]
 }
